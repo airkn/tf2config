@@ -5,5 +5,6 @@ My TF2 configuration files, and some custom
 
 # Launch options
 ```
--dxlevel 81 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+-dxlevel 81 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime +violence_ablood 0 +violence_agibs 0 +violence_hblood 0 +violence_hgibs 0 +violence_ablood 0 +violence_agibs 0 +violence_hblood 0 +violence_hgibs 0
 ```
+remove the dxlevel option after first launch, u only need to do it once
